@@ -368,6 +368,8 @@ FodyWeavers.xsd
 ## Visual studio for Mac
 ##
 
+#webdigits - Web part of the project
+webdigits
 
 # globs
 Makefile.in
